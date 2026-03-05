@@ -17,3 +17,4 @@ Key Concepts and Challenges:
 6.Clipboard Integration (for Advanced): Allow users to copy generated passwords to theclipboard for convenience.
 
 7.Customization (for Advanced): Enable users to customize password generation further, e.g.,excluding specific characters.
+
