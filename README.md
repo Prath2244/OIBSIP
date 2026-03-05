@@ -4,6 +4,7 @@ These are all the projects and tasks that was given to me during my internsip on
 i) BMI Calculator
 Develop an advanced password generator with a graphical user interface (GUI) using Tkinter or PyQt. Enhance it by including options for password complexity, adherence to security rules, and clipboard integration for easy copying.
 Key Concepts and Challenges:
+
 1.Randomization: Learn how to generate random characters and strings.
 
 2.User Input Validation: Validate user input for password length and character types.
